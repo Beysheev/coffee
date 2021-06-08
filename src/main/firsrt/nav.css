@@ -1,0 +1,8 @@
+.navigator ul{
+    display: flex;
+    align-items: center;
+}
+.basket img{
+    width: 50px;
+    padding-left: 50px;
+}
